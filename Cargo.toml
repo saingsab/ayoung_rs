@@ -3,6 +3,9 @@ name = "ayoung_rs"
 version = "0.1.0"
 authors = ["Saing Sab <saing.sab@gmail.com>"]
 edition = "2018"
+description = "Testing package publish in crates.io"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
